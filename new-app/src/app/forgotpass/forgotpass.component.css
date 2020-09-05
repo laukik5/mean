@@ -1,0 +1,19 @@
+body, html {
+	font-family: Poppins-Regular, sans-serif;
+}
+.container-fluid{
+    background: linear-gradient(-135deg, #c850c0, #4158d0);
+} 
+h1{
+    font-weight:bold;
+}
+
+.btn{
+    outline:none;
+    border-radius:10px;
+    font-weight:bold;
+    border:none;
+}
+.page2{
+    font-weight:bold;
+}
